@@ -14,7 +14,7 @@ __Features:__
 
 # Screenshot
 
-<img src="https://user-images.githubusercontent.com/69405523/182221505-5dd33aba-9f3a-46c1-b8f0-6dbd20151d00.jpg" alt="Error Catch" width="25%"/>
+<img src="https://user-images.githubusercontent.com/69405523/182221505-5dd33aba-9f3a-46c1-b8f0-6dbd20151d00.jpg" alt="Error Catch" width="35%"/>
 
 <br><br>
 
