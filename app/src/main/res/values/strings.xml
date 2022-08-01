@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Catch Error Utils</string>
+    <string name="title_activity_display_error">DisplayErrorActivity</string>
+    <string name="catch_error_utils">Catch Error Utils</string>
+    <string name="crash_me">Crash Me</string>
+    <string name="an_error">An Error Occurred</string>
+</resources>

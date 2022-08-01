@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">عرض الأخطاء</string>
+    <string name="title_activity_display_error">صفحة عرض الخطأ</string>
+    <string name="crash_me">حطم التطبيق</string>
+    <string name="catch_error_utils">كشف الأخطاء وعرضها</string>
+    <string name="an_error">حدث خطأ</string>
+</resources>
