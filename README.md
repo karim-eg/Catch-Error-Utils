@@ -1,6 +1,10 @@
-# Catch Error Utils
+# Catch Error Utils [![StandWithPalestine](https://raw.githubusercontent.com/kimoandroid/StandWithPalestine/main/assets/palestine_badge.svg)](https://github.com/kimoandroid/StandWithPalestine)
 This Project Simply Show Any Error that will happen in your app and display the full Error in another Activity like Screenshot below.
 You can use this code inside your app to make Bug Logger or detect bug system.
+
+<br>
+
+[![StandWithPalestine](https://raw.githubusercontent.com/kimoandroid/StandWithPalestine/main/assets/palestine_banner.svg)](https://github.com/kimoandroid/StandWithPalestine/blob/main/Donate.md)
 
 <br>
 
