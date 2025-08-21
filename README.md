@@ -12,7 +12,7 @@ __Features:__
 
 * Detect Any Error occur in your app.
 * you can modify files as you want.
-* Open Source Project, use it everywhere, Fork it here: [Catch Errors - github](https://github.com/kimoandroid/Catch_Error_Utils)
+* Open Source Project, use it everywhere, Fork it here: [Catch Errors - github](https://github.com/karim-eg/Catch_Error_Utils)
 
 <br>
 
@@ -22,10 +22,6 @@ __Features:__
 <img src="https://user-images.githubusercontent.com/69405523/182221505-5dd33aba-9f3a-46c1-b8f0-6dbd20151d00.jpg" alt="Error Catch" width="35%"/>
 
 <br><br>
-
-__all rights saved to [Encept Corporation](https://encept.co)__
-
-<br>
 
 # license:
 [Apache License](https://www.apache.org/licenses/LICENSE-2.0)
